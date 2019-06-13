@@ -1,0 +1,40 @@
+body {
+  font-family: Helvetica;
+}
+
+h1 {
+  text-transform: capitalize;
+  font-size: 100px;
+  color: khaki;
+  text-align: center;
+}
+
+span {
+  font-weight: bold;
+  color: blue;
+}
+
+.picture {
+  background-image: url("Images/pattern.jpeg");
+  background-color: azure;
+  background-size: cover;
+  position: relative;
+}
+
+.main {
+  font-weight: bold;
+  font-size: 32px;
+  color: white;
+}
+
+.color1 {
+  background-color: mediumspringgreen;
+}
+
+.color2 {
+  background-color: lightcoral;
+}
+
+.color3 {
+  background-color: skyblue;
+}
